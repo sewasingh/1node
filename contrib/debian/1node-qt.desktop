@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=1Node
+Comment=1Node P2P Cryptocurrency
+Comment[fr]=1Node, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=1Node, eşten eşe kriptografik sanal para birimi
+Exec=1node-qt %u
+Terminal=false
+Type=Application
+Icon=1node128
+MimeType=x-scheme-handler/1node;
+Categories=Office;Finance;
